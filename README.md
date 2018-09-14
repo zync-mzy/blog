@@ -1,2 +1,2 @@
-# blog
-repository as blog, issue as article
+借鉴他人的做法，将这个仓库当做博客来使用，issue就是博文。
+多总结多沉淀，加油！
